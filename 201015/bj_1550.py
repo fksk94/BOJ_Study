@@ -1,0 +1,1 @@
+print(str(int('0x'+input(), 16)))
