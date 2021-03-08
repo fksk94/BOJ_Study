@@ -7,7 +7,10 @@ def dpdp():
         for j in range(len(knap)):
             if i - knap[j] > -1:
                 dp[i] = min(dp[i], dp[i-knap[j]]+1)
-    print(dp[N])
+    if dp[N] == float('INF'):
+        print(-1)
+    else:
+        print(dp[N])
 
 N, M = map(int, input().split())
 arr = list(map(int, input().split()))
