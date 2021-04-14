@@ -4,7 +4,3 @@
 * commit 메모에 JAVA, CPP, Python과 함께 난이도 및 문제 개수 표시
 
 * codeforce: pupil
-
-
-
-.
