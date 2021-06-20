@@ -1,0 +1,1 @@
+print(["You're the winner?","I'm a winner!"][sum([1for i in input() if i not in"BDPQRTWXY"])%2])
