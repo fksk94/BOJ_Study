@@ -14,7 +14,7 @@ commit 메모에 JS, JAVA, CPP, Python과 함께 난이도 및 문제 개수 표
 
 ## 코드포스
 
-21년 11월까지 블루 찍어보자! 현재는 pupil.
+21년 11월까지 블루 찍어보자! 현재는 specialist.
 
 
 
