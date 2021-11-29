@@ -12,9 +12,10 @@ commit 메모에 JS, JAVA, CPP, Python과 함께 난이도 및 문제 개수 표
 
 
 
-## 코드포스
+## 성취
 
-21년 11월까지 블루 찍어보자! 현재는 specialist.
+* 코드포스 specialist 달성
+* 백준 500문제 솔
 
 
 
